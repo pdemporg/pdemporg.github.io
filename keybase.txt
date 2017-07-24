@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/pdemporg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pdemp.org
+  * I am pdemporg (https://keybase.io/pdemporg) on keybase.
+  * I have a public key with fingerprint A2EA 2BF6 4878 7007 C845  4F08 5EF2 BB93 E727 5890
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01010df81f2ac1119d469b75f18987b6e3b4fe7dd6a0676963db8bb23d7ec029934b0a&quot;,
+            &quot;fingerprint&quot;: &quot;a2ea2bf648787007c8454f085ef2bb93e7275890&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;5ef2bb93e7275890&quot;,
+            &quot;kid&quot;: &quot;01010df81f2ac1119d469b75f18987b6e3b4fe7dd6a0676963db8bb23d7ec029934b0a&quot;,
+            &quot;uid&quot;: &quot;d8d47333818b50c8002669fbe097b219&quot;,
+            &quot;username&quot;: &quot;pdemporg&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;pdemp.org&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1500892955,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;a5dc682a445ba50125e4596bda9433b8f21a432a58e8fc02fb92f867b3133acd&quot;,
+    &quot;seqno&quot;: 4,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GnuPG - https://www.gnupg.org/
+
+owGtkm1oW1UYx5MuLWtkq6PpdFhXPOvGmGl77us5J7MDqXQ0Y2hH2Ru6cM+953aX
+dbnpTZpZSqsUlDVutmo3x9RW1jCYH6zbbLSojLIX2EYSBmXYimyyOlvtYt1Ch8U6
+7y0KfvCjnA+H8/B7/uf//Hn6Vixzed3x+gHVbz0A7usz1LWnLbuxA1BTaweBDnCA
+LV2sRWPRWOiAoYEAgJx9NB1zOq+oHMcRTZQJRZLOYYIRlZlARZ0hTZMVKCOZyIJG
+MaW8oCGmQp4QQaRQAX6gG+FmZkUsIxyzZRWeKTzVZREjjCBEKhYlUYdYYjpPKREY
+4pGECbQb95tRp8M2R5UoqzZMu2Y/Qkv2/oP/n323LclpWBORIAiYw1SCKoaQl2Wi
+UwYJojxHHDDKrLBykNl0RGMHI6bVDDr9wK7GDZU5wTqT/JuodhA/iFhmzFTNFru8
+PxaLBJyuWHvEwQ4xGvpbIESNsGZnaDfEmRU1zDAIcDapxgxHkZMgxIQnkuQH7NWI
+YbGQ4RASkm2zEDrfsLiTvKSpMuYVUZSaqCJBjpeYKBGZagoRBYFinecUUeAVCTOs
+21HolPA6lhEVOEFQVA04M7WGTRAQbZ9Ks60ZNZrDSqzNYqDT2+P+0ONye11FhQXO
+drm8xY//s3Jn0GOLqzP+iWR/+dHWir6R0sTwNTi8fFM9ypSXTl+gtz8YL/ppXeHV
+3FOfNvaUjHzM0vUVJ4PdU6mGmlBXyQ8dA5fvPVqV/8izBr9Q9/auS8Hct2uHfUNH
+b9Xerto8M1m57uadfHKhazqXKhn07P75Bpl9KVA8NjV9seCYr0i9RO7WjR6bmkxu
+lfNPrxhywdQcMhqqXz6i7X34Sv+y7nzn8Yn2zAI6P9V61/D9+fD09cPe3Ddlm7d0
+zUwMte2srSlyP3nzxU8+82z1FCivD44fd1csFjbRL1dvm+3dduJ+z3TZ4IW33p3/
+PJhKpp87V9yP4YmWbHJ5vG7Ns/f9GTJyee+9TPv6ta5rP6aqQtuzdX8cpuV3ap6P
+VDaMJkYTk7ntk9Wnzm6QNvoSOxbTuxbeW7mvO3/m7O+ZOTC3O/3VlbL53xrJ+Xf4
+9FhvaNOeDbd8KyvfnNHHs8/8+vX3Q71v7Dw09lrpgyOJL2qD66vAwHe95076CBi9
+mG2c5R/1zQVPPfFL05b50Ps7/gI=
+=E9fE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pdemporg
+
+==================================================================
